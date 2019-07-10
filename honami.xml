@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Official>
+        <honami>
+            <Filename>10.0.9-20190711-OFFICIAL-honami.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for honami">https://sourceforge.net/projects/darkblueedg/files/honami/liquid_remix-10.0.9-20190711-OFFICIAL-honami.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://github.com/DarkBlueEdg/honami/pie/Changelog.txt</ChangelogUrl>
+        </honami>
+    </Official>
+</SlimOTA>
