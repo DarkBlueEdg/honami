@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://github.com/DarkBlueEdg/honami/pie/Changelog.txt</ChangelogUrl>
+                description="Click here to view latest changes">https://github.com/DarkBlueEdg/honami/blob/pie/Changelog.txt/Changelog.txt</ChangelogUrl>
         </honami>
     </Official>
 </SlimOTA>
