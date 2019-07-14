@@ -7,7 +7,7 @@
 # * Chances are you only need to change the ota_url in this file 
 #
 ota_url=https://raw.githubusercontent.com/DarkBlueEdg/honami/pie/honami.xml
-release_type=OFFICIAL
+release_type=EXPERIMENTAL
 device_name=ro.liquid.device
 
 #
