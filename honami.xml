@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <EXPERIMENTAL>
         <honami>
-            <Filename>10.0.10-20190715-EXPERIMENTAL-honami.zip</Filename>
+            <Filename>10.0.10-20190714-EXPERIMENTAL-honami.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix Sony Z1 C6903 Honami"
@@ -13,15 +13,15 @@
                 description="Click here to view latest changes">https://mega.nz/#!rDBEHA5L!L7ZJJw6_ANjVC3KPTSU83ipfKnZQr2khDf73Y30YNgQ</ChangelogUrl>
             <KernelModUrl
                 id="kernelmod"
-                title="kernelmod"
+                title="Kernel Mod"
                 description="Download LiquidRemix-v1.2 Kernel MOD">https://mega.nz/#!afQVGSwQ!M7XPTW2mG4RP0nPsdPgkLg8_JkiyIvIm-VyveG7CIN0</KernelModUrl>
             <KernelOriginalUrl
                 id="kerneloriginal"
-                title="kerneloriginal"
+                title="Kernel Original"
                 description="Download Original kernel">https://mega.nz/#!rfBzza6J!rmz08oaB3RhZnQFeDhdwiyziuHVZtEUnighNpUi4lyE</KernelOriginalUrl>
             <LiquidRemixStuffUrl
                 id="liquidremixstuff"
-                title="liquidremixstuff"
+                title="LiquidRemix Stuff"
                 description="Download LiquidRemix Stuff">https://mega.nz/#F!fTBESY5b!LnUnNY1QZsbLliNP8u5kDg</LiquidRemixStuffUrl>
         </honami>
     </EXPERIMENTAL>
