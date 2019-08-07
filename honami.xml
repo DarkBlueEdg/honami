@@ -9,8 +9,8 @@
                 description="Download latest build for Sony Z1 C6903 Honami">https://mega.nz/#!GXBEhQiJ!BFYg_8QMSL_hSa-yP_JVDW2A2xVss6jPtsR1ZKjlFAs/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
-                title="Changelog"
-                description="Click here to view latest changes">https://mega.nz/#!rDBEHA5L!L7ZJJw6_ANjVC3KPTSU83ipfKnZQr2khDf73Y30YNgQ</ChangelogUrl>
+                title="Change Log"
+                description="Click here to download latest changes">https://mega.nz/#!rDBEHA5L!L7ZJJw6_ANjVC3KPTSU83ipfKnZQr2khDf73Y30YNgQ</ChangelogUrl>
             <KernelModUrl
                 id="kernelmod"
                 title="Kernel Mod"
