@@ -11,6 +11,18 @@
                 id="changelog"
                 title="Changelog"
                 description="Click here to view latest changes">https://mega.nz/#!rDBEHA5L!L7ZJJw6_ANjVC3KPTSU83ipfKnZQr2khDf73Y30YNgQ</ChangelogUrl>
+            <KernelModUrl
+                id="kernelmod"
+                title="kernelmod"
+                description="Download LiquidRemix-v1.2 Kernel MOD">https://mega.nz/#!afQVGSwQ!M7XPTW2mG4RP0nPsdPgkLg8_JkiyIvIm-VyveG7CIN0</KernelModUrl>
+            <KernelOriginalUrl
+                id="kerneloriginal"
+                title="kerneloriginal"
+                description="Download Original kernel">https://mega.nz/#!rfBzza6J!rmz08oaB3RhZnQFeDhdwiyziuHVZtEUnighNpUi4lyE</KernelOriginalUrl>
+            <LiquidRemixStuffUrl
+                id="liquidremixstuff"
+                title="liquidremixstuff"
+                description="Download LiquidRemix Stuff">https://mega.nz/#F!fTBESY5b!LnUnNY1QZsbLliNP8u5kDg</LiquidRemixStuffUrl>
         </honami>
     </EXPERIMENTAL>
 </SlimOTA>
