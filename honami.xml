@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <EXPERIMENTAL>
         <honami>
-            <Filename>10.0.10-20190715-EXPERIMENTAL-honami.zip</Filename>
+            <Filename>10.0.10-20190714-EXPERIMENTAL-honami.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix Sony Z1 C6903 Honami"
